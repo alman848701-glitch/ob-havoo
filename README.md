@@ -11,7 +11,7 @@ Node.js da yozilgan Telegram ob-havo boti.
 
 ```bash
 # Repository ni klon qiling
-git clone https://github.com/alman848701-glitch/ob-havo.git
+git clone https://github.com/alman848701-glitch/ob-havoo.git
 cd ob-havo
 
 # Paketlarni o'rnatish
